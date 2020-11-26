@@ -1,5 +1,5 @@
 {
-    "name": "gapafzar/gap-sdp-api",
+    "name": "elkoob/gap-api",
     "type": "library",
     "description": "A PHP wrapper for the Gap Messenger SDP API.",
     "license": "MIT",
