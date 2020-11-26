@@ -1,4 +1,4 @@
-# ![gap](examples/assets/gap.png) Gap Messenger SDP API PHP
+# ![gap](examples/assets/gap.png) Gap Messenger SDP API PHP FOR LARAVEL
 
 A PHP wrapper for the Gap Messenger SDP API.
 
